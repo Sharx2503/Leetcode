@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sharx2503/Leetcode/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/Sharx2503/Leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Sharx2503/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sharx2503/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
