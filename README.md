@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sharx2503/Leetcode/tree/master/0412-fizz-buzz) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharx2503/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3110-score-of-a-string](https://github.com/Sharx2503/Leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Sharx2503/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Sharx2503/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharx2503/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharx2503/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
