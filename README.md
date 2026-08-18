@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sharx2503/Leetcode/tree/master/0412-fizz-buzz) |
+| [1108-defanging-an-ip-address](https://github.com/Sharx2503/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharx2503/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3110-score-of-a-string](https://github.com/Sharx2503/Leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
