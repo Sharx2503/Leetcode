@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sharx2503/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sharx2503/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sharx2503/Leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Sharx2503/Leetcode/tree/master/1927-sum-game) |
 | [2413-smallest-even-multiple](https://github.com/Sharx2503/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Sharx2503/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Sharx2503/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Sharx2503/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Sharx2503/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharx2503/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1927-sum-game](https://github.com/Sharx2503/Leetcode/tree/master/1927-sum-game) |
 | [3110-score-of-a-string](https://github.com/Sharx2503/Leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sharx2503/Leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Sharx2503/Leetcode/tree/master/1927-sum-game) |
 ## Graph Theory
 |  |
 | ------- |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharx2503/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Sharx2503/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
