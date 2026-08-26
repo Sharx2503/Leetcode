@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Sharx2503/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sharx2503/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sharx2503/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/Sharx2503/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sharx2503/Leetcode/tree/master/0217-contains-duplicate) |
 | [3668-restore-finishing-order](https://github.com/Sharx2503/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sharx2503/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3945-digit-frequency-score](https://github.com/Sharx2503/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
