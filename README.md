@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sharx2503/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sharx2503/Leetcode/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sharx2503/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1512-number-of-good-pairs](https://github.com/Sharx2503/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Sharx2503/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sharx2503/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/Sharx2503/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sharx2503/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sharx2503/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sharx2503/Leetcode/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/Sharx2503/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/Sharx2503/Leetcode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/Sharx2503/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Sharx2503/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sharx2503/Leetcode/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/Sharx2503/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/Sharx2503/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sharx2503/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Sharx2503/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sharx2503/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Sharx2503/Leetcode/tree/master/1927-sum-game) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Sharx2503/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
