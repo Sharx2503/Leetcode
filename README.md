@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sharx2503/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sharx2503/Leetcode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Sharx2503/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/Sharx2503/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1927-sum-game](https://github.com/Sharx2503/Leetcode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/Sharx2503/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Sharx2503/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sharx2503/Leetcode/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/Sharx2503/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sharx2503/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sharx2503/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sharx2503/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
