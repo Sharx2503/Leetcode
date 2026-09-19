@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Sharx2503/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Sharx2503/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sharx2503/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sharx2503/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sharx2503/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sharx2503/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sharx2503/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sharx2503/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Sharx2503/Leetcode/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sharx2503/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sharx2503/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Sharx2503/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Sharx2503/Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Sharx2503/Leetcode/tree/master/3174-clear-digits) |
