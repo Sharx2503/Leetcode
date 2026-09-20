@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Sharx2503/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Sharx2503/Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Sharx2503/Leetcode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sharx2503/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sharx2503/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Sharx2503/Leetcode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sharx2503/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sharx2503/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Sharx2503/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Matrix
 |  |
