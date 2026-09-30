@@ -188,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sharx2503/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sharx2503/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
