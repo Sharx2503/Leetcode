@@ -1,8 +1,8 @@
 class Solution {
     public int countDigitOccurrences(int[] nums, int digit) {
         int c=0;
-        for(int i=0;i<nums.length;i++){
-            int t=nums[i];
+        for(int num:nums){
+            int t=num;
             while(t!=0){
                 int r=t%10;
                 if(r==digit){
