@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sharx2503/Leetcode/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Sharx2503/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Sharx2503/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sharx2503/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sharx2503/Leetcode/tree/master/0011-container-with-most-water) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sharx2503/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sharx2503/Leetcode/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/Sharx2503/Leetcode/tree/master/1927-sum-game) |
 ## Counting
 |  |
